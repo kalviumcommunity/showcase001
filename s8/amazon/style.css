@@ -1,0 +1,149 @@
+
+    
+    
+
+
+   
+#navBar{
+    background-color:#232F3E;
+    height:100px;
+    color:white
+  }
+  #topHalf{
+    height:50px;
+  }
+  #bottomHalf{
+    height:80px
+  }
+  #logo{
+    height:60px;
+    position:absolute;
+    top:15px
+    
+  }
+  #logoWrapper{
+    margin-bottom:20px;
+    display:inline-block;
+    position:relative;
+    width:150px;
+    
+  }
+  #cart{
+    height:50px;
+    float:right;
+    margin-right:20px
+    
+  }
+  input{
+    vertical-align: middle;
+    margin-top:15px;
+    border-radius:20px;
+    height:20px;
+    width:500px;
+    padding-left: 6cm;
+  }
+  #all{
+    font-size:25px;
+    padding:10px;
+    margin-left:30px;
+    font-weight:bold;
+    display:inline-block;
+    vertical-align:top;
+    margin-top:10px
+  }
+  #sections{
+    display:inline-block
+  }
+  .section{
+    display:inline-block;
+    vertical-align:top;
+    font-size:15px;
+    margin-top:15px;
+    margin-left:10px
+  }
+  
+  
+  .flag{float: right;}
+
+  
+  
+
+  .pad1 { width: 360px;
+     height: 100px;
+      margin-top: 50px;
+         background-color: white;
+         background: #fff;
+    height: 100%;
+    position: relative;
+    margin-bottom: 0;
+    margin-top: 0;
+    overflow: hidden;
+    padding-top: 20px;
+    float: left;
+}
+    
+
+    .pad2 { width: 450px;
+        height: 100px;
+         margin-top: 50px;
+        
+    height: 100%;
+    position: relative;
+    margin-bottom: 0;
+    margin-top: 0;
+    overflow: hidden;
+    padding-top: 20px;
+
+       }
+
+
+       .pad3 { width: 350px;
+        height: 500px;
+         margin-top: 50px;
+          margin-left: auto; 
+          margin-right: auto; 
+            background-color: white;
+            height: 100%;
+            position: relative;
+            margin-bottom: 0;
+            margin-top: 0;
+            overflow: hidden;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+            
+       }
+       .pad4 { width: 360px;
+        height: 260px;
+         margin-top: 50px;
+          margin-left: auto; 
+          margin-right: auto; 
+            background-color: white;
+            float: right;
+            height: 100%;
+            position: relative;
+            margin-bottom: 0;
+            margin-top: 0;
+            overflow: hidden;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+       }
+
+
+    .upperdiv{            display: inline-block;
+        background-image:'  ';
+    }
+
+
+
+    #container {
+        display: flex;                  
+        flex-direction: row;            
+        flex-wrap: nowrap;              
+        justify-content: space-between; 
+        background-color: lightyellow;
+      }
+      

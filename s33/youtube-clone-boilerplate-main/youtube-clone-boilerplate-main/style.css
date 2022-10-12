@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+  }
+  .center{
+    text-align: center;
+  }
+  .right {
+    text-align: right;
+  }
+  .left {
+    text-align: left;
+  }
+  .icons {
+    font-size: 2px;
+  }

@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Kanit', sans-serif;
+    background-color: #22272d;
+    color: white;
+}
+
+/* Headings */
+
+h5{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Navbar Section */
+
+nav{
+    position: absolute;
+    width: 100vw;
+    padding: 20px 50px;
+    background-image: linear-gradient(rgb(0, 0, 0, 40%), rgb(0, 0, 0, 0%));
+}
+
+nav>div{
+    display: inline-block;
+}
+
+.logo{
+    left: 0;
+    height: 25px;
+}
+
+nav li{
+    display: inline-block;
+    margin: 20px 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 100%;
+}
+
+nav ul{
+    margin-left: 20px;
+}
+
+.nav-icons-div {
+    float: right;
+    margin-right: 100px;
+    line-height: 100%;
+}
+
+.nav-icons{
+    margin: 15px;
+    height: 15px;
+}
+
+/* Main container */
+
+.main-container img{
+    width: 100vw;
+}
+
+.title-div{
+    z-index: 2;
+    position: absolute;
+    left: 0;
+    top: 400px;
+    margin-left: 50px;
+}
+
+
+.n-show img{
+    height: 25px;
+    width: auto;
+    float: left;
+}
+
+.n-show h2{
+    font-weight: 400;
+    font-size: 15px;
+    text-align: left;
+    margin: 0 25px;
+}
+
+.title-div h1{
+    font-size: 100px;
+}
+
+.title-div button{
+    float: left;
+    padding: 10px 20px 10px 10px;
+    background-color: white;
+    border-style: none;
+    border-radius: 4px;
+    margin-right: 15px;
+    font-weight: 600;
+}
+
+.title-div button img{
+    width: 14px;
+    margin: 0 5px;
+}
+
+.title-div .info-button{
+    background-color: rgba(255, 255, 255, 50%);
+    color: white;
+}
+
+/* See Again */
+
+.row{
+    margin: 30px auto auto 50px;
+}
+
+.row-title{
+    display: inline;
+}
+
+.row-title h5{
+    float: left;
+}
+
+.row-title img{
+    margin: 0 10px;
+    height: 12px;
+}
+
+.card{
+    display: inline-block;
+    /* background-color: white; */
+    height: 130px;
+    width: 18%;
+    margin: 20px 10px 20px 0;
+}
+
+.card-img{
+    position: relative;
+    width: 20%;
+    height: auto;
+}
+
+.card0{
+    background-image: url(./assets/Tile\ Component.png);
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.card1{
+    background-image: url(./assets/Tile\ Component-1.png);
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.card2{
+    background-image: url(./assets/Tile\ Component-2.png);
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.card3{
+    background-image: url(./assets/Tile\ Component-3.png);
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.card4{
+    background-image: url(./assets/Tile\ Component-4.png);
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.card5{
+    background-image: url(./assets/Tile\ Component-5.png);
+    background-size: cover;
+    border-radius: 5px;
+}
+
+/* Top 10 in your country section */
+
+.tcard{
+    display: inline-block;
+    /* background-color: white; */
+    height: 200px;
+    width: 18%;
+    margin: 20px 10px 20px 0;
+}
+
+.num{
+    display: inline-block;
+    width: 50%;
+    height: 200px;
+}
+
+.num1{
+    background-image: url(./assets/Rank\ -\ 01.png);
+    background-size: cover;
+    left: -50px;
+}
+
+.tcard1{
+    float: right;
+    width: 50%;
+    height: 200px;
+    background-image: url(./assets/t1.png);
+    background-size: cover;
+}
+
+.num2{
+    background-image: url(./assets/Rank\ -\ 02.png);
+    background-size: cover;
+    left: -50px;
+}
+
+.tcard2{
+    float: right;
+    width: 50%;
+    height: 200px;
+    background-image: url(./assets/t2.png);
+    background-size: cover;
+}
+
+.num3{
+    background-image: url(./assets/Rank\ -\ 03.png);
+    background-size: cover;
+    left: -50px;
+}
+
+.tcard3{
+    float: right;
+    width: 50%;
+    height: 200px;
+    background-image: url(./assets/t3.png);
+    background-size: cover;
+}
+
+.num4{
+    background-image: url(./assets/Rank\ -\ 04.png);
+    background-size: cover;
+    left: -50px;
+}
+
+.tcard4{
+    float: right;
+    width: 50%;
+    height: 200px;
+    background-image: url(./assets/t4.png);
+    background-size: cover;
+}
+
+.num5{
+    background-image: url(./assets/Rank\ -\ 05.png);
+    background-size: cover;
+    left: -50px;
+}
+
+.tcard5{
+    float: right;
+    width: 50%;
+    height: 200px;
+    background-image: url(./assets/t5.png);
+    background-size: cover;
+}
+
+/* Footer Section */
+
+.footer-icons{
+    margin: 50px 300px 20px;
+}
+
+.footer-icons img{
+    margin-right: 10px;
+}
+
+.footer-link-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 300px;
+}
+
+footer button{
+    border-style: solid;
+    border-radius: 5px;
+    margin: 0 300px 20px;
+    background-color: rgb(255, 255, 255, 0);
+    color: white;
+    padding: 10px;
+}
+
+footer p{
+    font-weight: 400;
+    font-size: 15px;
+    margin: 0 300px 20px;
+}
+    

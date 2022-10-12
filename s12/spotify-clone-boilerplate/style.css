@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+#menu {
+    position: fixed;
+    width: 250px;
+    height: 100%;
+    background-color: black;
+}
+
+#logo {
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 80%;
+    width: 75%;
+
+}
+
+#button {
+    width: 245px;
+    background-color: transparent;
+    padding: 1px;
+    color: rgb(255, 255, 255);
+}
+
+#button:hover {
+    background-color: rgb(83, 81, 81);
+}
+
+.label {
+    height: 20px;
+    position: relative;
+    right: 30px;
+
+}
+
+#main {
+    position: relative;
+    background-color: rgb(39, 38, 38);
+    left: 250px;
+    width: 100%;
+    height: 1080px;
+}
+
+#previous-next {
+    margin-top: 20px;
+    height: 30px;
+    width: 80px;
+    justify-content: center;
+}
+
+#tiles button {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(44, 44, 44);
+    display: inline;
+    color: rgb(255, 255, 255);
+    contain: content;
+    border: none;
+
+}
+
+#right-container {
+    margin-left: 40px;
+
+}

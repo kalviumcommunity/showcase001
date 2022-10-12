@@ -1,0 +1,68 @@
+header{
+    background-image: url(./assets/Title-Image.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    list-style-type: none;
+    
+}
+ul li{
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.logo img{
+    float: left;
+    width: 150px;
+    margin-top: 25px;
+    margin-left: 55px;
+    
+}
+
+.title{
+    position: absolute;
+    top: 70%;
+    left: 15%;
+    color: white;
+    font-size: 30px;
+    
+    
+    
+}
+#Netflixlogo{
+    height: 30px;
+    width: 20px;
+}
+.maid{
+    font-size: 80px;
+    position: absolute;
+    color: white;
+    float: left;
+    top: 68%;
+    left: 15%;
+}
+.serch{
+    position: absolute;
+    top: 5%;
+    left: 85%;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.tile{
+    position: absolute;
+    float: left;
+}
+
+
+#bsc{
+    position: relative;
+    display: inline-flex;
+}

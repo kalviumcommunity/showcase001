@@ -1,0 +1,150 @@
+*{
+    color: white;
+}
+#a{
+    padding-bottom: 40px;
+    padding-left: 50px;
+}
+
+#b{
+    padding-left: 50px;
+}
+
+#c{
+    padding-left: 45px;
+}
+
+#d{
+    padding-left: 50px;
+}
+
+#e{
+    background-color: rgb(43, 39, 39);
+    width: 250px;
+    height: 950px;
+}
+
+#hambarger{
+    position: relative;
+    top: -20px;
+    right: 20px;
+    height: 30px;
+}
+
+#youtube{
+    position: relative;
+    top: -25px;
+    height: 25px;
+}
+
+#home{
+    position: relative;
+    top: 10px;
+    right: 20px;
+    height: 30px;
+}
+
+#explores{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#shorts{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#subscriptions{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#library{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#history{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#your_video{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#watch_later{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#liked_videos{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#show_more{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+
+#nadir{
+    height: 25px;
+    position: relative;
+    top: 7px;
+    right: 20px;
+}
+
+#coke{
+    height: 25px;
+    position: relative;
+    top: 7px;
+    right: 20px;
+}
+
+#mkbhd{
+    height: 25px;
+    position: relative;
+    top: 7px;
+    right: 20px;
+}
+
+#figma{
+    height: 25px;
+    position: relative;
+    top: 7px;
+    right: 20px;
+}
+
+#atc{
+    height: 25px;
+    position: relative;
+    top: 7px;
+    right: 20px;
+}
+
+#alux{
+    height: 25px;
+    position: relative;
+    top: 7px;
+    right: 20px;
+}

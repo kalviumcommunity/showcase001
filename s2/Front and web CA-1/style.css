@@ -1,0 +1,204 @@
+body{
+    background-color: rgb(40, 67, 94);
+}
+.logo{
+    height: 35px;
+    size: 100px;
+    margin-top: 10px;
+}
+.location{
+    margin-left: 90px;
+    margin-top: -35px;
+    color: white;
+}
+.search{
+    margin-left: 250px;
+    margin-top: -50px;
+    color: white;
+  
+}
+.India{
+    height: 20px;
+    margin-left: 400px;
+    margin-top: -40px;
+}
+.sign{
+    margin-left: 730px;
+    margin-top: -30px;
+    color: white;
+}
+.returns{
+    margin-left: 900px;
+    margin-top: -50px;
+    color: white;
+}
+#backgroundimage{
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+
+    left: 0;
+  }
+  .box-a{
+    text-align: center;
+    height: 400px;
+    width: 330px;
+    background-color: white;
+    position: absolute;
+    bottom: -10px;
+    left:43px;
+
+}
+.box-b{
+    text-align: center;
+    height: 400px;
+    width: 330px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: -10px;
+    left: 393PX;
+
+}
+.box-c{
+    text-align: center;
+    height: 400px;
+    width: 330px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: -10px;
+    right: 404px;
+}
+.sign{text-align: center;
+    height: 153px;
+    width: 330px;
+    position: absolute;
+    bottom: 236px;
+    right: 44px;
+    background-color: hsl(0, 9%, 98%); 
+}
+.signin{
+    align-items: center;
+    justify-content: center;
+   position: absolute;
+   top: 85px;
+   left: 82px;
+   background-color: yellow;
+   width: 163px;
+   height: 34px;
+    
+}
+.image28{
+    position: absolute;
+    bottom: -8px;
+    right: 65px;
+    height: 226px;
+    width: 274px;
+    background-color: rgb(255, 255, 255);
+}
+.img28{
+    max-width: 100%;
+    max-height: 100%;
+}
+.image17{
+    height: 100px;
+    width: 130px;
+   
+    position: absolute;
+    left: 26px;
+}
+#img17{
+    max-width: 108%;
+    max-height: 100%;
+}
+.image18{
+    height: 100px;
+    width: 130px;
+
+    position: absolute;
+    left: 183px;
+}
+#img18{
+    max-width: 108%;
+    max-height: 100%;
+}
+.image19{
+    height: 100px;
+    width: 130px;
+    
+    position: absolute;
+    left: 26px;
+    top: 249px;
+}
+#img19{
+    max-width: 108%;
+    max-height: 100%;
+}
+.image20{
+    height: 100px;
+    width: 130px;
+    position: absolute;
+    left: 183px;
+    top: 249px;
+}
+#img20{
+    max-width: 108%;
+    max-height: 100%;
+}
+.image21{
+    height: 100px;
+    width: 130px;
+   
+    position: absolute;
+    left: 26px;
+}
+#img21{
+    max-width: 108%;
+    max-height: 100%;
+}
+.image22{
+    height: 100px;
+    width: 130px;
+
+    position: absolute;
+    left: 183px;
+}
+#img22{
+    max-width: 108%;
+    max-height: 100%;
+}
+.image24{
+    height: 100px;
+    width: 130px;
+    
+    position: absolute;
+    left: 26px;
+    top: 249px;
+}
+#img24{
+    max-width: 108%;
+    max-height: 100%;
+}
+.image25{
+    height: 100px;
+    width: 130px;
+    position: absolute;
+    left: 183px;
+    top: 249px;
+}
+#img25{
+    max-width: 108%;
+    max-height: 100%;
+}
+.image26{
+    height: 284px;
+    width: 281px;
+    position: absolute;
+    left: 22px;
+    top: 87px;
+}
+#img26{
+max-width: 108%;
+    max-height: 100%;
+}

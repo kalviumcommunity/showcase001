@@ -1,0 +1,287 @@
+body{
+    background-color: rgb(24,24,24);
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    text-align: justify;
+    background-color: rgb(33,33,33);
+    position: sticky;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(56,56,56);
+    color: white;
+  }
+
+
+.logo{
+    position: relative;
+    top: -810px;
+    left: -30px;
+    height: 100px;
+    width: 100px;
+}
+
+.search input[type=text]{
+    position: relative;
+    left: 550px;
+    top: -860px;
+    width: 600px;
+    height: 20px;
+    background-color: rgb(56,56,56);
+    border-style: solid;
+    border-color: rgb(33,33,33) ;
+
+}
+
+
+.mic{
+    height: 22px;
+    width: 20px;
+    position: relative;
+    left: 1165px;
+    top: -885px;
+}
+
+.line{
+    width: 1388px;
+    position: relative;
+    top: -873px;
+    left: 130px;
+    border: solid rgb(56,56,56);
+    border-width: 1px;
+}
+
+.img1{
+    width: 290px;
+    position: relative;
+    top: -806px;
+    left: 40px;
+}
+
+.img2{
+    width: 290px;
+    position: relative;
+    top: -1010px;
+    left: 310px;
+}
+
+.img3{
+    width: 290px;
+    position: relative;
+    top: -1010px;
+    left: 340px;
+}
+
+.img4{
+    width: 290px;
+    height: 194px;
+    position: relative;
+    top: -1008px;
+    left: 370px;
+
+}
+
+.but1{
+    border-radius: 12px;
+    width: 60px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+  
+    
+}
+.but2{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+
+.but3{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+
+.but4{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but5{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but6{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but7{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but8{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but9{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but10{
+    border-radius: 12px;
+    width: 100px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but11{
+    border-radius: 12px;
+    width: 110px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but12{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but13{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but14{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but15{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 310px;
+    
+}
+.but16{
+    border-radius: 12px;
+    width: 70px;
+    height: 25px;
+    position: relative;
+    top: -1063px;
+    left: 343px;
+    
+}
+.line1{
+    width: 1388px;
+    position: relative;
+    top: -843px;
+    left: 130px;
+    border: solid rgb(56,56,56);
+    border-width: 1px;
+}
+
+.video{
+    height: 40px;
+    width: 48px;
+    position: relative;
+    top: -1302px;
+    left: 550px;
+}
+
+.grid{
+    height: 23px;
+    width: 39px;
+    position:relative;
+    top: -1311px;
+    left: 539px;
+
+}
+
+.bell{
+    height: 29px;
+    width: 30px;
+    position:relative;
+    top: -1308px;
+    left: 533px;
+
+
+}
+
+.acc{
+    height: 28px;
+    width: 28px;
+    position:relative;
+    top: -1309px;
+    left: 557px;
+
+}
